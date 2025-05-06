@@ -4,6 +4,7 @@
 // @version      0.4
 // @description  Filters Hacker News Show submissions to only show open-source projects, removes clutter, and re-ranks items.
 // @author       sm18lr88 (https://github.com/sm18lr88)
+// @license      MIT
 // @match        https://news.ycombinator.com/show
 // @match        https://news.ycombinator.com/show*
 // @downloadURL  https://raw.githubusercontent.com/sm18lr88/Show_Hacker_News_OSS-only/main/Show_Hacker_News_OSS-only.user.js
